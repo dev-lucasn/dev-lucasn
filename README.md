@@ -1,17 +1,23 @@
-# Hello! I'm Lucas Nóbrega de Jesus 👋
+# Hello! I'm Lucas Nóbrega de Jesus 
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasN-tech&show_icons=true&theme=radical)
 
-Readme em portugues! 
-
 
 # Languages 📚
+
+<div align='center'>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasN-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/08c4adb2-ff06-4338-b321-6b80d8ab3d69)
 ![NET-5C2D91_style=for-the-badge logo=](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/42c7c619-7523-4ea3-b70d-777fab55894f)
 ![Python-14354C_style=for-the-badge logo=python logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/499058e9-0b6d-4eb5-a555-f4b6d9a5173d)
 ![Figma-F24E1E_style=for-the-badge logo=figma logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/3c57d351-3e45-456d-b879-49b130a91df3)
-<img width='70px' src='./Imagens/uipath3.png'>
+<img width='70px' src='./Imagens/uipath3.png'> 
+</div>
+
+
+
 
 # Experience 🚀
 Process Automation: With my passion for efficiency and process optimization, I have dedicated myself to automate repetitive tasks using Python, C#, and RPA tools. I use these programming languages to develop customized solutions that increase productivity and reduce errors in different areas of accounting.
