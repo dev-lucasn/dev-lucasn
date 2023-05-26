@@ -2,6 +2,9 @@
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasN-tech&show_icons=true&theme=radical)
 
+Readme em portugues! 
+
+
 # Languages 📚
 
 ![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/08c4adb2-ff06-4338-b321-6b80d8ab3d69)
