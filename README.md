@@ -2,10 +2,11 @@
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasN-tech&show_icons=true&theme=radical)
 # Linguagens 📚
-![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/f2fccdd7-c2e5-4ba6-b090-14e8751ab034)
-![NET-5C2D91_style=for-the-badge logo=](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/586ed9fe-f85d-4f7e-af81-4e51f999a344)
-![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/892d4cb7-5bc7-43de-9e4f-0726e0e2ad91)
-![MySQL-005C84_style=for-the-badge logo=mysql logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/6644ee7a-cf68-4c83-bf31-99f50b48e8c8)
+
+![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/08c4adb2-ff06-4338-b321-6b80d8ab3d69)
+![NET-5C2D91_style=for-the-badge logo=](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/42c7c619-7523-4ea3-b70d-777fab55894f)
+![Python-14354C_style=for-the-badge logo=python logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/499058e9-0b6d-4eb5-a555-f4b6d9a5173d)
+![Figma-F24E1E_style=for-the-badge logo=figma logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/3c57d351-3e45-456d-b879-49b130a91df3)
 <img width='70px' src='./Imagens/uipath3.png'>
 
 # Experiência 🚀
