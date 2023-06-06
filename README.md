@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasN-tech&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/08c4adb2-ff06-4338-b321-6b80d8ab3d69)
 ![NET-5C2D91_style=for-the-badge logo=](https://github.com/LucasN-tech/LucasN-tech/assets/124197639/42c7c619-7523-4ea3-b70d-777fab55894f)
