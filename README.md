@@ -1,7 +1,7 @@
 # Hello! I'm Lucas Nóbrega de Jesus 
 <img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
 
-# Languages 📚
+# Linguagens 📚
 
 <div align='center'>
 
@@ -16,23 +16,20 @@
 
 
 
+# Experiência 🚀
+Automação de Processos: Com minha paixão pela eficiência e otimização de processos, dediquei-me a automatizar tarefas repetitivas usando Python, C# e ferramentas de RPA. Utilizo essas linguagens de programação para desenvolver soluções personalizadas que aumentam a produtividade e reduzem erros em diferentes áreas de contabilidade.
 
-# Experience 🚀
-Process Automation: With my passion for efficiency and process optimization, I have dedicated myself to automate repetitive tasks using Python, C#, and RPA tools. I use these programming languages to develop customized solutions that increase productivity and reduce errors in different areas of accounting.
+Análise de Sistemas: Estou estudando análise e desenvolvimento de sistemas para aprimorar minha compreensão de arquitetura de software, design de banco de dados e gerenciamento de projetos. Tenho interesse em aplicar essas habilidades para construir sistemas eficientes e escaláveis.
 
-Systems Analysis: I am studying systems analysis and development to enhance my understanding of software architecture, database design, and project management. I am interested in applying these skills to build efficient and scalable systems.
+# Interesses 📖
+Além do meu trabalho, sou apaixonado por tecnologia e sempre ansioso para aprender novas ferramentas e tecnologias. Tenho um interesse especial em desenvolvimento de software de ponta a ponta, desde a concepção até a implementação, buscando soluções inovadoras.
 
-# Interests 📖
-In addition to my work, I am passionate about technology and always eager to learn new tools and technologies. I have a special interest in artificial intelligence, machine learning, and developing innovative solutions.
+Estou entusiasmado com as oportunidades que o campo da engenharia de software oferece e estou comprometido em melhorar continuamente para enfrentar desafios complexos. Estou aberto a colaborações e projetos interessantes envolvendo desenvolvimento de software e automação de processos.
 
-I am excited about the opportunities that the software engineering field offers and I am committed to continuously improving myself to tackle complex challenges. I am open to collaborations and interesting projects involving software development and process automation.
-
-Feel free to contact me to discuss potential collaborations or share knowledge. Let's build a more efficient and technological future together!
-
-
+Sinta-se à vontade para entrar em contato comigo para discutir possíveis colaborações ou compartilhar conhecimento. Vamos construir juntos um futuro mais eficiente e tecnológico!
 
 <div align='left'>  
-  <h1> Contacts 📞 </h1>
+  <h1> Contatos 📞 </h1>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasnóbrega/)
   [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasnd@outlook.com)
