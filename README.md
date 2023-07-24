@@ -1,5 +1,4 @@
 # Hello! I'm Lucas Nóbrega de Jesus 
-<img width='40%' align='right' src='Imagens\Best_boss.gif'></img>
 
 # Linguagens 📚
 
