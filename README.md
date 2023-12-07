@@ -20,6 +20,35 @@ Automação de Processos: Com minha paixão pela eficiência e otimização de p
 
 Análise de Sistemas: Estou estudando análise e desenvolvimento de sistemas para aprimorar minha compreensão de arquitetura de software, design de banco de dados e gerenciamento de projetos. Tenho interesse em aplicar essas habilidades para construir sistemas eficientes e escaláveis.
 
+
+# Projetos
+
+Alguns dos projetos estão privados devido a informações sensíveis da empresa, mas nada que não possa ser mostrado em futuras oportunidades de emprego.
+
+A seguir estão os projetos que estão em andamento:
+
+- **WebSite da empresa Go Technology**
+  - Descrição: Uma landing page desenvolvida com HTML, CSS e AngularJS.
+
+- **WebSite da empresa FL Consultoria Contábil**
+  - Descrição: Uma landing page desenvolvida com HTML e CSS.
+
+- **Ferramenta de Envio Automatizado de E-mails**
+  - Descrição: Desenvolvida em C# utilizando o msgraph do Azure.
+  - Envio de envio dado parametros especificos, por exemplo arquivo disponibilizado na rede. despacho para cliente especifico. 
+
+- **Ferramenta de Extração de Informações de Sites Governamentais**
+  - Descrição: Utilizando a ferramenta RPA, Uipath e Selenium.
+  - Faz a extração de arquivos do ecac/nota do milhão para agilizar processos internos. 
+
+- **Painel do Setor**
+  - Descrição: Desenvolvido com WPF, VB e C#.
+  - Essa ferramenta visa a geração de arquivos para o setor, por exemplo de obrigassoes assessorias DCTF, EFD etc importando arquivos csv e fazendo a tratativa para transmissao dos programas governamentais. 
+
+---
+
+**Nota:** Alguns projetos não estão listados aqui devido a considerações de privacidade, mas estou aberto a discutir esses projetos em futuras oportunidades de emprego.
+
 # Interesses 📖
 Além do meu trabalho, sou apaixonado por tecnologia e sempre ansioso para aprender novas ferramentas e tecnologias. Tenho um interesse especial em desenvolvimento de software de ponta a ponta, desde a concepção até a implementação, buscando soluções inovadoras.
 
