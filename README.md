@@ -47,12 +47,12 @@ A seguir estão os projetos que estão em andamento:
 
 ---
 
-**Nota:** Alguns projetos não estão listados aqui devido a considerações de privacidade, mas estou aberto a discutir esses projetos em futuras oportunidades de emprego.
+**Nota:** Alguns projetos não estão listados aqui devido a considerações de privacidade, mas estou aberto a discutir esses projetos em futuras oportunidades.
 
 # Interesses 📖
 Além do meu trabalho, sou apaixonado por tecnologia e sempre ansioso para aprender novas ferramentas e tecnologias. Tenho um interesse especial em desenvolvimento de software de ponta a ponta, desde a concepção até a implementação, buscando soluções inovadoras.
 
-Estou entusiasmado com as oportunidades que o campo da engenharia de software oferece e estou comprometido em melhorar continuamente para enfrentar desafios complexos. Estou aberto a colaborações e projetos interessantes envolvendo desenvolvimento de software e automação de processos.
+Sou entusiasta em o que a engenharia de software oferece estou comprometido em melhorar continuamente para enfrentar desafios complexos. Estou aberto a colaborações e projetos interessantes envolvendo desenvolvimento de software e automação de processos.
 
 Sinta-se à vontade para entrar em contato comigo para discutir possíveis colaborações ou compartilhar conhecimento. Vamos construir juntos um futuro mais eficiente e tecnológico!
 
