@@ -1,9 +1,10 @@
 <h1 align="center"> Lucas Nóbrega de Jesus 🧑‍💻</h1>
 
 <p align="center">
-Desenvolvedor de software com 5 anos de experiência focado em <strong>automação empresarial</strong>, <strong>integração de ERPs</strong> e <strong>APIs REST escaláveis</strong>.<br/>
-Especializado em <strong>.NET</strong>, <strong>Clean Architecture</strong> e <strong>Microservices</strong>.
+Software developer with 5 years of experience focused on <strong>business automation</strong>, <strong>ERP integration</strong>, and <strong>scalable REST APIs</strong>.<br/>
+Specialized in <strong>.NET</strong>, <strong>Clean Architecture</strong>, and <strong>Microservices</strong>.
 </p>
+
 
 <p align="center">
   <img width="301" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasN-tech&layout=compact&theme=default" />
