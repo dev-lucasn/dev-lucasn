@@ -1,80 +1,47 @@
-# 👨‍💻 Lucas Nóbrega de Jesus
-# Linguagens 📚
+<h1 align="center"> Lucas Nóbrega de Jesus 🧑‍💻</h1>
 
-<div align='left'>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasN-tech&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+Desenvolvedor de software com +5 anos de experiência focado em <strong>automação empresarial</strong>, <strong>integração de ERPs</strong> e <strong>APIs REST escaláveis</strong>.<br/>
+Especializado em <strong>.NET</strong>, <strong>Clean Architecture</strong> e <strong>Microservices</strong>.
+</p>
 
-</div>
+<p align="center">
+  <img width="301" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasN-tech&layout=compact&theme=default" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=LucasN-tech&show_icons=true&theme=default" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+</p>
 
-**.NET Developer | Fullstack | Microservices | ERP Integrations | REST APIs**
-
-📍 São Paulo - SP, Brazil  
-📧 lucasnd@outlook.com.br  
-🔗 [linkedin.com/in/lucasnóbrega](https://www.linkedin.com/in/lucasnóbrega)
-
----
-
-## 💼 About Me
-
-I’m a software developer with over 5 years of experience focused on enterprise automation, ERP integration, and scalable REST API development.
-
-Proficient in .NET Framework, .NET 6/7, ASP.NET, SQL Server, and VB.NET. On the frontend, I build performant SPAs using React, Zustand, MUI, and Ant Design.
-
-I work with **microservices architecture** and follow **Clean Architecture** principles with a layered approach (API → Application → Domain → Infrastructure), ensuring maintainability and scalability.
-
-I have a strong analytical mindset, am self-taught, and fully committed to delivering efficient and robust software solutions.
-
-
----
-
-## 🚀 Tech Stack
-
-**Backend:**
-- .NET Framework / .NET 6 / .NET 7
-- ASP.NET Web API / MVC / Web Forms
-- SQL Server
-- VB.NET
-- Worker Services
-- Windows Services
-- Microservices using REST
-
-**Frontend:**
-- React
-- Zustand
-- Material UI (MUI)
-- Ant Design
-
-**Integrations & Services:**
-- REST APIs
-- SMTP / Microsoft Graph API
-- ERP integrations (Protheus, Domínio)
-- Tax systems (SPED, ECF, DCTF)
-- HttpClient, Background Services
-
-**Architecture:**
-- Microservices
-- Clean Architecture
-- Layered Architecture (API → Application → Domain → Infrastructure)
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%231572B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-%23FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-%23001111?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-%23007386?style=flat-square&logo=entity-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
 ---
+<p align="center">
+  <a href="mailto:lucasnd@outlook.com.br">
+    <img src="https://img.shields.io/badge/-OUTLOOK-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook" />
+  </a>
 
-## 🧠 Skills
+  <a href="https://www.linkedin.com/in/lucasnóbrega">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- Building scalable and modern SPAs
-- Decoupled microservice systems using REST
-- Legacy system and ERP integration
-- Scheduled jobs and background task automation
-- Performance-focused backend development
-- Custom deployments for multiple clients
+<p align="center">
+  📍 São Paulo - SP, Brasil
+</p>
 
----
-
-## 🎓 Education
-**FIAP – São Paulo, Brazil**  
-Associate Degree in Systems Analysis and Development  
-*Jan 2023 – Dec 2024*
----
 
 
