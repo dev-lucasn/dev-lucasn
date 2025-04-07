@@ -1,7 +1,7 @@
 <h1 align="center"> Lucas Nóbrega de Jesus 🧑‍💻</h1>
 
 <p align="center">
-Desenvolvedor de software com +5 anos de experiência focado em <strong>automação empresarial</strong>, <strong>integração de ERPs</strong> e <strong>APIs REST escaláveis</strong>.<br/>
+Desenvolvedor de software com 5 anos de experiência focado em <strong>automação empresarial</strong>, <strong>integração de ERPs</strong> e <strong>APIs REST escaláveis</strong>.<br/>
 Especializado em <strong>.NET</strong>, <strong>Clean Architecture</strong> e <strong>Microservices</strong>.
 </p>
 
