@@ -1,14 +1,14 @@
 <h1 align="center"> Lucas Nóbrega de Jesus 🧑‍💻</h1>
 
 <p align="center">
-  <a href="README-pt-br.md">
-    <img src="https://img.shields.io/badge/Ver%20em%20Português-%23007386?style=for-the-badge&logo=github&logoColor=white" alt="Ver em Português" />
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Ver%20em%20Português-%23007386?style=for-the-badge&logo=github&logoColor=white" alt="Read in English" />
   </a>
 </p>
 
 <p align="center">
-Software developer with 5 years of experience focused on <strong>business automation</strong>, <strong>ERP integration</strong>, and <strong>scalable REST APIs</strong>.<br/>
-Specialized in <strong>.NET</strong>, <strong>Clean Architecture</strong>, and <strong>Microservices</strong>.
+Desenvolvedor de software com 5 anos de experiência focado em <strong>automação de processos</strong>, <strong>integração com ERP</strong> e <strong>APIs REST escaláveis</strong>.<br/>
+Especializado em <strong>.NET</strong>, <strong>Clean Architecture</strong> e <strong>Microsserviços</strong>.
 </p>
 
 <p align="center">
