@@ -12,8 +12,8 @@ Specialized in <strong>.NET</strong>, <strong>Clean Architecture</strong>, and <
 </p>
 
 <p align="center">
-  <img width="301" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasN-tech&layout=compact&theme=default" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=LucasN-tech&show_icons=true&theme=default" />
+  <img width="301" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lucasn&layout=compact&theme=default" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dev-lucasn&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
